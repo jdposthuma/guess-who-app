@@ -324,7 +324,60 @@ const games = {
         }
     ],
     "Lorraine's Harry Potter": [],
-    "Family": []
+    "Family": [
+        {
+            name: "Jason",
+            url:  "https://avatars1.githubusercontent.com/u/15199396?s=460&u=1d48e2d0c72f275e80cb1fd20c3d6090649ec61c&v=4",
+        },
+        {
+            name: "Loraine",
+            url:  "",
+        },
+        {
+            name: "Frank",
+            url:  "https://cache.legacy.net/legacy/images/cobrands/FrederickNewsPost/photos/615976_20200326.jpgx?w=363&h=500&option=3",
+        },
+        {
+            name: "Becca",
+            url:  "https://www.oregonclinic.com/sites/default/files/styles/staff_detail220x300/public/image/team/Batalden_Rebecca%202015-Web.jpg?itok=2g3ip7HO",
+        },
+        {
+            name: "Daniel",
+            url:  "https://www.wernerharmsenfuneralhome.com/wp-content/uploads/2020/03/posthuma_0002.jpg",
+        },
+        {
+            name: "ben",
+            url:  "https://urgentcomm.com/files/2019/05/Kymeta-Ben-Posthuma.jpg",
+        },
+        {
+            name: "",
+            url:  "",
+        },
+        {
+            name: "",
+            url:  "",
+        },
+        {
+            name: "",
+            url:  "",
+        },
+        {
+            name: "",
+            url:  "",
+        },
+        {
+            name: "",
+            url:  "",
+        },
+
+
+
+
+
+
+
+
+    ]
 };
 
 module.exports = { games }
