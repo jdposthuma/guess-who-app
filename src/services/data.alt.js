@@ -646,7 +646,7 @@ const games = {
         flipped: false
     },{
         name: "Daz Bones",
-        url: "https://pm1.narvii.com/6330/9586331a437f9f68c2e70261c84a249c04a704e6_hq.jpg",
+        url: "https://comicvine1.cbsistatic.com/uploads/square_small/0/3347/392825-19445-mr-1.png",
         flipped: false
     },{
         name: "Mr 3",

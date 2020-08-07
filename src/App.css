@@ -63,7 +63,7 @@ header {
     animation-iteration-count: 4;
 }
 
-.Game .game-button:nth-child(1) {
+.Game .game-button:nth-child(1), .Game .game-button:nth-child(6) {
     background: #52124D;
     animation-delay: 0.4s;
 }
