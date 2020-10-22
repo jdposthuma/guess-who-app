@@ -86,3 +86,16 @@
 .flip-box:hover .select {
   opacity: 1;
 }
+
+.zoom {
+
+  border-radius: 999rem;
+  background: rebeccapurple;
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  top: 0.5rem;
+  left: 0.5rem;
+  display: flex;
+  cursor: pointer;
+}

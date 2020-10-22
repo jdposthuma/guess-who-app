@@ -17,7 +17,8 @@ function App() {
     [currentGameName, setCurrentGameName] = useState(null),
     [currentGame, setCurrentGame] = useState(null),
     [showSplashScreen, setShowSplashScreen] = useState(true),
-    [selectedCharacter, setSelectedCharacter] = useState(null);
+    [selectedCharacter, setSelectedCharacter] = useState(null),
+    [zoomedCharacter, setZoomedCharacter] = useState(null);
 
   function startGame(gameName) {
     setCurrentGameName(gameName)
@@ -33,10 +34,15 @@ function App() {
     currentGame.forEach(x => x.flipped = false);
     setSelectedCharacter(null)
     setCurrentGame(currentGame);
+    setZoomedCharacter(null);
   }
   
   function selectCharacter(character) {
     setSelectedCharacter(character);
+  }
+  
+  function zoomCharacter(character) {
+    setZoomedCharacter(character);
   }
 
   function renderSplashScreen() {
@@ -54,6 +60,21 @@ function App() {
     );
   }
 
+  function renderZoomedCharacter() {
+
+    if (!zoomedCharacter) {
+      return null;
+    }
+
+    console.log(JSON.stringify(zoomCharacter))
+
+    return (
+      <section className="modal" >
+        <img src={zoomedCharacter.url} alt={zoomedCharacter.name} />
+      </section>
+    );
+  }
+
   function renderGame() {
     return (
       <div className="App" >
@@ -66,8 +87,9 @@ function App() {
           </div>
         </header >
         <main className="Game">
-          {currentGame.map(x => <Card key={x.key} character={x} onChange={selectCharacter} hasSelectedCharacter={!!selectedCharacter} />)}
+          {currentGame.map(x => <Card key={x.key} character={x} onChange={selectCharacter} hasSelectedCharacter={!!selectedCharacter} onZoom={zoomCharacter} />)}
         </main>
+        {renderZoomedCharacter()}
       </div>
     );
   }

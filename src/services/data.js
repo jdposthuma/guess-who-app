@@ -301,7 +301,62 @@ const games = {
         name: "Bat Ray",
         url: "https://lh3.googleusercontent.com/proxy/Pw_xrM9gB6uu5j9PM3UaEthvr3t-BLRyEus1i8SYYONeE5O397lTQDuc-zg1ZOArmA6mLo8Jm4ocQ1uYsuoNa0oPh2sq_VA1_qsMXu7wuyiwM-1zfyurlru13yfYI42bn-cgFnNSTm9p8kcy6amQ4LI7XkjH7TJV10copvA",
         flipped: false
-    },]
+    }],
+    "Greek Mythology": [{
+        name: "Uranus",
+        url: "https://i.pinimg.com/originals/6b/ba/7b/6bba7bcfd53fe33a6fe284879b731dc1.jpg"
+    },{
+        name: "Hera",
+        url: "https://i.pinimg.com/originals/58/ed/28/58ed281997cc54bda6cd757a1ad70a78.jpg"
+    },{
+        name: "Athena",
+        url: "https://lh4.googleusercontent.com/4JmVnGOGKyMaSFojY9VurnQSrq1mDYrRw14-Vz5m6nbZtiGG2yJ17gFDwkFqHOqinLms0Xg7hU8IaocVLxvTatTRI4reAzPME-Y_nE_HLJpyI3o9q37HBqNKbBT-uiXBJad-uAXbA_k"
+    },{
+        name: "Zeus",
+        url: "https://static.wikia.nocookie.net/godofwar/images/7/7a/Zeus_-_Ascension.jpg/revision/latest?cb=20130202161637"
+    },{
+        name: "Rhea",
+        url: "https://greekmythologybycourtneyeager.weebly.com/uploads/1/7/0/5/17054474/485246107.jpg?203"
+    },{
+        name: "Chronos",
+        url: "https://vignette.wikia.nocookie.net/godsofrome/images/a/af/Chronos.full.jpg/revision/latest?cb=20170317072526"
+    },{
+        name: "Hebe",
+        url: "https://chanteeportfolio.weebly.com/uploads/2/3/8/4/23847829/7347281_orig.jpg"
+    },{
+        name: "Poseidon",
+        url: "https://static.wikia.nocookie.net/godofwar/images/f/f2/Poseidon_-_Ascension_textless.jpg/revision/latest/top-crop/width/360/height/360?cb=20191006223554"
+    },{
+        name: "Aphrodite",
+        url: "https://i.imgur.com/YIbCFOI.jpg"
+    },{
+        name: "Hercules",
+        url: "https://cdna.artstation.com/p/assets/images/images/008/019/552/large/thanos-bompotas-hercules01.jpg?1509972672"
+    },{
+        name: "",
+        url: ""
+    },{
+        name: "",
+        url: ""
+    },{
+        name: "",
+        url: ""
+    },{
+        name: "",
+        url: ""
+    },{
+        name: "",
+        url: ""
+    },{
+        name: "",
+        url: ""
+    },{
+        name: "",
+        url: ""
+    },{
+        name: "",
+        url: ""
+    }]
 };
 
 module.exports = { games }
