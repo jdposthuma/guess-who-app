@@ -313,7 +313,7 @@ const games = {
         url: "https://lh4.googleusercontent.com/4JmVnGOGKyMaSFojY9VurnQSrq1mDYrRw14-Vz5m6nbZtiGG2yJ17gFDwkFqHOqinLms0Xg7hU8IaocVLxvTatTRI4reAzPME-Y_nE_HLJpyI3o9q37HBqNKbBT-uiXBJad-uAXbA_k"
     },{
         name: "Zeus",
-        url: "https://static.wikia.nocookie.net/godofwar/images/7/7a/Zeus_-_Ascension.jpg/revision/latest?cb=20130202161637"
+        url: "https://learnodo-newtonic.com/wp-content/uploads/2019/03/Zeus-Powers-Featured.jpg"
     },{
         name: "Rhea",
         url: "https://greekmythologybycourtneyeager.weebly.com/uploads/1/7/0/5/17054474/485246107.jpg?203"
@@ -325,7 +325,7 @@ const games = {
         url: "https://chanteeportfolio.weebly.com/uploads/2/3/8/4/23847829/7347281_orig.jpg"
     },{
         name: "Poseidon",
-        url: "https://static.wikia.nocookie.net/godofwar/images/f/f2/Poseidon_-_Ascension_textless.jpg/revision/latest/top-crop/width/360/height/360?cb=20191006223554"
+        url: "https://i.pinimg.com/originals/71/38/6d/71386d7d6543311b0363509b638f12f2.jpg"
     },{
         name: "Aphrodite",
         url: "https://i.imgur.com/YIbCFOI.jpg"
@@ -333,29 +333,29 @@ const games = {
         name: "Hercules",
         url: "https://cdna.artstation.com/p/assets/images/images/008/019/552/large/thanos-bompotas-hercules01.jpg?1509972672"
     },{
-        name: "",
-        url: ""
+        name: "Artemus",
+        url: "https://vignette.wikia.nocookie.net/camp-mythica/images/9/96/Artemis.jpg/revision/latest/scale-to-width-down/340?cb=20170706014745"
     },{
-        name: "",
-        url: ""
+        name: "Eileithyia",
+        url: "https://a.wattpad.com/cover/198318909-288-k607234.jpg"
     },{
-        name: "",
-        url: ""
+        name: "Chimera",
+        url: "https://2.bp.blogspot.com/-Vo7gMF7bbjc/VVHoAO3WBBI/AAAAAAAAA0I/38BYhJjuQ7Q/s1600/chimera.jpg"
     },{
-        name: "",
-        url: ""
+        name: "Demeter",
+        url: "https://i.pinimg.com/originals/f9/40/4d/f9404dcf075af19d6d2ea3556f2fbe24.jpg"
     },{
-        name: "",
-        url: ""
+        name: "Cerberus",
+        url: "https://i.pinimg.com/originals/18/58/a2/1858a2c621899debda8e07c9ae67a1f3.jpg"
     },{
-        name: "",
-        url: ""
+        name: "Medusa",
+        url: "https://vignette.wikia.nocookie.net/encyclopediamythos/images/e/eb/Medusa.jpg/revision/latest?cb=20180710205036"
     },{
-        name: "",
-        url: ""
+        name: "Atlas",
+        url: "https://i.pinimg.com/originals/8c/c3/c5/8cc3c58b05c4714f1dabe14ab4702235.jpg"
     },{
-        name: "",
-        url: ""
+        name: "Helen",
+        url: "https://i.pinimg.com/originals/ff/c4/3a/ffc43aacd0c9bcad23022428a2778a42.jpg"
     }]
 };
 
