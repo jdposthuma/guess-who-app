@@ -356,6 +356,79 @@ const games = {
     },{
         name: "Helen",
         url: "https://i.pinimg.com/originals/ff/c4/3a/ffc43aacd0c9bcad23022428a2778a42.jpg"
+    }],
+    "Victoria's Harry Potter": [{
+        name: "Ginny",
+        url: "https://static.wikia.nocookie.net/harrypotter/images/8/8b/Ginny_Weasley_hbp_promo.jpg/revision/latest?cb=20180322181904"    
+    },{
+        name: "Crabbe",
+        url: "https://www.telegraph.co.uk/content/dam/books/2017/06/23/crabbegoyle_trans_NvBQzQNjv4BqOzI8Z0YZbBlApTWSBdZ_oMel_DAA3R8Hvb__fqM_36Y.jpg"
+    },{
+        name: "Goyle",
+        url: "https://static.wikia.nocookie.net/harrypotter/images/0/0e/Goyle.jpg/revision/latest/top-crop/width/360/height/450?cb=20050817015215"
+    },{
+        name: "Malfoy",
+        url: "https://i.pinimg.com/originals/d5/1e/9b/d51e9b2f3260b4fd2bd73bb4e1b0e21f.jpg"
+    },{
+        name: "Lucius Malfoy",
+        url: "https://giantbomb1.cbsistatic.com/uploads/scale_small/45/453869/3188781-16.jpg"
+    },{
+        name: "McGonagall",
+        url: "https://media1.popsugar-assets.com/files/thumbor/BZwA9-57lQXJcLiLq9m6Q4vkp2g/fit-in/728xorig/filters:format_auto-!!-:strip_icc-!!-/2016/04/27/949/n/1922507/b301c9c1_edit_img_cover_file_41081634_1461709964/i/Why-Professor-McGonagall-Best.jpg",
+    },{
+        name: "Dobby",
+        url: "https://d68b3152cf5d08c2f050-97c828cc9502c69ac5af7576c62d48d6.ssl.cf3.rackcdn.com/includes/img/press/cms/Dobby-M3.jpg"
+    },{
+        name: "Harry",
+        url: "https://i2-prod.edinburghlive.co.uk/incoming/article15486840.ece/ALTERNATES/s615/0_Potter.png",
+    },{
+        name: "Fred",
+        url: "https://pm1.narvii.com/6354/8dc4252e4db32a5df00b09dff1d637cb68f2e839_00.jpg",
+    },{
+        name: "George",
+        url: "https://i.quotev.com/img/q/u/20/4/11/vrhgtvc77f.jpg"
+    },{
+        name: "Snape",
+        url: "https://cnet1.cbsistatic.com/img/G7075StY4jDjUxq0-skiddgMfcI=/940x0/2016/01/14/365f60ee-4d02-4fbe-baa5-bc06c2b35749/snape1.jpg"
+    },{
+        name: "Hermione",
+        url: "https://data.whicdn.com/images/332936182/original.jpg"
+    },{
+        name: "Ron",
+        url: "https://memegenerator.net/img/images/12359006.jpg"
+    },{
+        name: "Hagrid",
+        url: "https://static.wikia.nocookie.net/harrypotter/images/3/32/Rubeus.jpg/revision/latest?cb=20070804191155"
+    },{
+        name: "Dumbeldore",
+        url: "https://i.pinimg.com/474x/d0/62/5e/d0625e4d4ab94a0c90154cae1db278aa.jpg"
+    },{
+        name: "Neville",
+        url: "https://static.wikia.nocookie.net/ashes_of_chaos/images/6/66/Nevillelongbottom.jpg/revision/latest?cb=20200730201859"
+    },{
+        name: "Hedwig",
+        url: "https://static.wikia.nocookie.net/harrypotter/images/1/1e/Hedwig_Snowy_Owl_PM.png/revision/latest/top-crop/width/360/height/450?cb=20161123234010"
+    },{
+        name: "Buckbeak",
+        url: "https://static.wikia.nocookie.net/heroes-and-villain/images/f/f4/Buckbeak.jpg/revision/latest/top-crop/width/360/height/450?cb=20181016151919"
+    },{
+        name: "Lockhart",
+        url: "https://images.shoutwiki.com/harrypotter/1/1c/Gilderoy_Lockhart.PNG"
+    },{
+        name: "Binns",
+        url: "https://pm1.narvii.com/6833/60ccd85ad3dfd0713785834ed1ed1a03102c37f3v2_00.jpg"
+    },{
+        name: "Hooch",
+        url: "https://i.pinimg.com/236x/b7/5a/76/b75a7605e2c34e7659bea42ca552451c--saga-harry-potter-harry-potter-characters.jpg"
+    },{
+        name: "",
+        url: ""
+    },{
+        name: "",
+        url: ""
+    },{
+
+
     }]
 };
 
