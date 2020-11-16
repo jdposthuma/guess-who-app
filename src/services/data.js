@@ -837,14 +837,11 @@ const games = {
         name: "Hooch",
         url: "https://i.pinimg.com/236x/b7/5a/76/b75a7605e2c34e7659bea42ca552451c--saga-harry-potter-harry-potter-characters.jpg"
     },{
-        name: "",
-        url: ""
+        name: "Quirrell",
+        url: "https://i.pinimg.com/originals/8d/74/a4/8d74a409b660f951b93c8c838e5821dc.jpg"
     },{
-        name: "",
-        url: ""
-    },{
-
-
+        name: "Lupin",
+        url: "https://images-na.ssl-images-amazon.com/images/I/518Lh7Sa5-L._AC_.jpg"
     }]
 };
 
