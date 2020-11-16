@@ -775,13 +775,13 @@ const games = {
     }],
     "Victoria's Harry Potter": [{
         name: "Ginny",
-        url: "https://static.wikia.nocookie.net/harrypotter/images/8/8b/Ginny_Weasley_hbp_promo.jpg/revision/latest?cb=20180322181904"    
+        url: "https://i.pinimg.com/originals/b5/fa/af/b5faafa44e2a272b9aa53058f914da88.jpg"    
     },{
         name: "Crabbe",
         url: "https://www.telegraph.co.uk/content/dam/books/2017/06/23/crabbegoyle_trans_NvBQzQNjv4BqOzI8Z0YZbBlApTWSBdZ_oMel_DAA3R8Hvb__fqM_36Y.jpg"
     },{
         name: "Goyle",
-        url: "https://static.wikia.nocookie.net/harrypotter/images/0/0e/Goyle.jpg/revision/latest/top-crop/width/360/height/450?cb=20050817015215"
+        url: "https://i.pinimg.com/originals/10/74/e8/1074e89bbcb3b76dd4db452a549c679b.jpg"
     },{
         name: "Malfoy",
         url: "https://i.pinimg.com/originals/d5/1e/9b/d51e9b2f3260b4fd2bd73bb4e1b0e21f.jpg"
@@ -814,19 +814,19 @@ const games = {
         url: "https://memegenerator.net/img/images/12359006.jpg"
     },{
         name: "Hagrid",
-        url: "https://static.wikia.nocookie.net/harrypotter/images/3/32/Rubeus.jpg/revision/latest?cb=20070804191155"
+        url: "https://s.aolcdn.com/dims-shared/dims3/GLOB/crop/580x380+0+0/resize/1028x675!/format/jpg/quality/85/https://s.aolcdn.com/hss/storage/midas/d7cd49ec0d417b80fb2034638ed37fb7/203283742/Screen+Shot+2016-01-19+at+4.18.36+PM.png"
     },{
         name: "Dumbeldore",
         url: "https://i.pinimg.com/474x/d0/62/5e/d0625e4d4ab94a0c90154cae1db278aa.jpg"
     },{
         name: "Neville",
-        url: "https://static.wikia.nocookie.net/ashes_of_chaos/images/6/66/Nevillelongbottom.jpg/revision/latest?cb=20200730201859"
+        url: "https://akns-images.eonline.com/eol_images/Entire_Site/2020526/rs_634x1024-200626105420-634-matthew_lewis-6-26-20.jpg?fit=around%7C634:auto&output-quality=90&crop=634:auto;center,top"
     },{
         name: "Hedwig",
-        url: "https://static.wikia.nocookie.net/harrypotter/images/1/1e/Hedwig_Snowy_Owl_PM.png/revision/latest/top-crop/width/360/height/450?cb=20161123234010"
+        url: "https://i.pinimg.com/originals/71/bc/3d/71bc3d3661dda399e9d2065630ede0ef.jpg"
     },{
         name: "Buckbeak",
-        url: "https://static.wikia.nocookie.net/heroes-and-villain/images/f/f4/Buckbeak.jpg/revision/latest/top-crop/width/360/height/450?cb=20181016151919"
+        url: "https://i.pinimg.com/originals/ae/f6/eb/aef6eb37aea448a552048c481cbac4e5.png"
     },{
         name: "Lockhart",
         url: "https://images.shoutwiki.com/harrypotter/1/1c/Gilderoy_Lockhart.PNG"
