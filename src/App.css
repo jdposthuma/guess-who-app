@@ -63,27 +63,27 @@ header {
     animation-iteration-count: 4;
 }
 
-.Game .game-button:nth-child(1) {
+.Game .game-button:nth-child(1), .Game .game-button:nth-child(6) {
     background: #52124D;
     animation-delay: 0.4s;
 }
 
-.Game .game-button:nth-child(2) {
+.Game .game-button:nth-child(2), .Game .game-button:nth-child(7) {
     background: #9E8728;
     animation-delay: 0.8s;
 }
 
-.Game .game-button:nth-child(3) {
+.Game .game-button:nth-child(3), .Game .game-button:nth-child(8) {
     background: #9E1893;
     animation-delay: 1.2s;
 }
 
-.Game .game-button:nth-child(4) {
+.Game .game-button:nth-child(4), .Game .game-button:nth-child(9) {
     background: #089E8F;
     animation-delay: 1.6s;
 }
 
-.Game .game-button:nth-child(5) {
+.Game .game-button:nth-child(5), .Game .game-button:nth-child(10) {
     background: #08524A;
     animation-delay: 2.0s;
 }
@@ -103,4 +103,14 @@ header {
 }
 .game-controls > * {
     margin: 0 0.5rem;
+}
+
+.modal {
+    position: absolute;
+    background: darkgray;
+    border-radius: 2px;
+    /* background: red; */
+    height: 90vh;
+    width: 90vw;
+    top: 0;
 }
