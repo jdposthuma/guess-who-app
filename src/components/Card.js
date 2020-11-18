@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 
 function Card(props) {
 
-    const { character, isMini, hasSelectedCharacter, onZoom } = props,
+    const { character, isMini, hasSelectedCharacter } = props,
     [isFlipped, setIsFlipped] = useState(character ? character.flipped : false);
 
     function flipCharacter() {
@@ -26,7 +26,7 @@ function Card(props) {
                     <h2 >{character ? character.name : "me"}</h2>
                 </div >
             </div>
-           <div className="zoom" onClick={zoomCharacter}><span>+</span></div>
+           <button className="zoom" onClick={zoomCharacter}><span>+</span></button>
            {!isMini && !hasSelectedCharacter ? <div className="select" onClick={selectCharacter}><span>Select</span></div> : null}
         </div >
     );

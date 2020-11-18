@@ -36,13 +36,18 @@ function App() {
     setCurrentGame(currentGame);
     setZoomedCharacter(null);
   }
-  
+
   function selectCharacter(character) {
     setSelectedCharacter(character);
   }
-  
+
   function zoomCharacter(character) {
     setZoomedCharacter(character);
+  }
+
+  function closeCharacter(character) {
+    console.log("closed!")
+    setZoomedCharacter(null);
   }
 
   function renderSplashScreen() {
@@ -66,12 +71,14 @@ function App() {
       return null;
     }
 
-    console.log(JSON.stringify(zoomCharacter))
-
     return (
-      <section className="modal" >
-        <img src={zoomedCharacter.url} alt={zoomedCharacter.name} />
-      </section>
+      <div className="modal-wrapper">
+      <div className="backdrop" onClick={closeCharacter}>&nbsp;</div>
+        <section className="modal" >
+          <button className="close-button" onClick={closeCharacter}><span>x</span></button>
+          <img src={zoomedCharacter.url} alt={zoomedCharacter.name} />
+        </section>
+      </div>
     );
   }
 
